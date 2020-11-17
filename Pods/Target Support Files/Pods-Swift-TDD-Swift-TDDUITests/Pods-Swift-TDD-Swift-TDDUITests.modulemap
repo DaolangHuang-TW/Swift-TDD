@@ -1,0 +1,6 @@
+framework module Pods_Swift_TDD_Swift_TDDUITests {
+  umbrella header "Pods-Swift-TDD-Swift-TDDUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
